@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/artluxe-react/static/css/main.078125bf.css",
-    "main.js": "/artluxe-react/static/js/main.c865d943.js",
+    "main.js": "/artluxe-react/static/js/main.7cdbec4c.js",
     "static/media/fa-solid-900.ttf": "/artluxe-react/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/fa-brands-400.ttf": "/artluxe-react/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/artluxe-react/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
@@ -19,10 +19,10 @@
     "static/media/fa-v4compatibility.woff2": "/artluxe-react/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/artluxe-react/index.html",
     "main.078125bf.css.map": "/artluxe-react/static/css/main.078125bf.css.map",
-    "main.c865d943.js.map": "/artluxe-react/static/js/main.c865d943.js.map"
+    "main.7cdbec4c.js.map": "/artluxe-react/static/js/main.7cdbec4c.js.map"
   },
   "entrypoints": [
     "static/css/main.078125bf.css",
-    "static/js/main.c865d943.js"
+    "static/js/main.7cdbec4c.js"
   ]
 }
