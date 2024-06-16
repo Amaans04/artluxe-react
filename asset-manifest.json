@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/artluxe-react/static/css/main.3a39f6c8.css",
-    "main.js": "/artluxe-react/static/js/main.517717a2.js",
+    "main.css": "/artluxe-react/static/css/main.52f46e7e.css",
+    "main.js": "/artluxe-react/static/js/main.b854c145.js",
+    "static/media/slide3.png": "/artluxe-react/static/media/slide3.0f08bc7adc8824406df7.png",
+    "static/media/slide1.png": "/artluxe-react/static/media/slide1.19400192f8e6d3e802df.png",
     "static/media/fa-solid-900.ttf": "/artluxe-react/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/slide2.png": "/artluxe-react/static/media/slide2.a179b9cd2b2ccbde1ed5.png",
+    "static/media/logo.png": "/artluxe-react/static/media/logo.6a5c88ee7a01151dc513.png",
     "static/media/fa-brands-400.ttf": "/artluxe-react/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/artluxe-react/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
     "static/media/fa-brands-400.woff2": "/artluxe-react/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
@@ -12,21 +16,21 @@
     "static/media/fa-regular-400.ttf": "/artluxe-react/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
     "static/media/hero_icon.png": "/artluxe-react/static/media/hero_icon.cf1884e005ed00de07d7.png",
     "static/media/product_6.png": "/artluxe-react/static/media/product_6.fe302ae4ef0fd30b8a1c.png",
+    "static/media/whatsapp_icon.png": "/artluxe-react/static/media/whatsapp_icon.29c160928f2080e92ed3.png",
     "static/media/product_3.png": "/artluxe-react/static/media/product_3.4dc40a015494a5434d62.png",
     "static/media/product_9.png": "/artluxe-react/static/media/product_9.f841a05defdd2724afeb.png",
+    "static/media/pinterest_icon.png": "/artluxe-react/static/media/pinterest_icon.498806a202d9542a5adb.png",
     "static/media/product_7.png": "/artluxe-react/static/media/product_7.39a8e3ee474aab8de7b4.png",
     "static/media/fa-regular-400.woff2": "/artluxe-react/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
     "static/media/product_8.png": "/artluxe-react/static/media/product_8.2ad4224d37d19ea1d9bd.png",
-    "static/media/flag.png": "/artluxe-react/static/media/flag.28b62bfa767951b8e407.png",
-    "static/media/whatsapp_icon.png": "/artluxe-react/static/media/whatsapp_icon.293b60bb0cda3da773ea.png",
     "static/media/fa-v4compatibility.ttf": "/artluxe-react/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
     "static/media/fa-v4compatibility.woff2": "/artluxe-react/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/artluxe-react/index.html",
-    "main.3a39f6c8.css.map": "/artluxe-react/static/css/main.3a39f6c8.css.map",
-    "main.517717a2.js.map": "/artluxe-react/static/js/main.517717a2.js.map"
+    "main.52f46e7e.css.map": "/artluxe-react/static/css/main.52f46e7e.css.map",
+    "main.b854c145.js.map": "/artluxe-react/static/js/main.b854c145.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a39f6c8.css",
-    "static/js/main.517717a2.js"
+    "static/css/main.52f46e7e.css",
+    "static/js/main.b854c145.js"
   ]
 }
