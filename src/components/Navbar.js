@@ -75,12 +75,11 @@ const Navbar = () => {
         </div>
 
         <div className="currency-selector">
-          <button>INR (₹)</button>
-          <i className="fas fa-caret-down"></i>
+          <button>INR (₹) <i className="fas fa-caret-down"></i></button>
         </div>
 
         <div className="nav-login-cart">
-          <Link to='/login'><button>Login</button></Link>
+          <Link to='www.google.com'><button>Login</button></Link>
           <Link to='/cart'><img src={person} alt="person icon" /></Link>
           
           <div className="nav-cart-count">0</div>
